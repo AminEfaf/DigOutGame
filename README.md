@@ -1,9 +1,5 @@
 # Dig Out Game
 
-Welcome to Dig Out, an exhilarating adventure game set in a captivating two-dimensional world!
-
----
-
 ## Project Overview
 
 Dig Out places you in control of a daring character traversing through a dynamic environment filled with various blocks, including soil, rocks, and more. Your mission? Navigate through the terrain, dig, and unearth hidden treasures along the way!
